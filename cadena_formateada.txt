@@ -1,0 +1,1 @@
+cadena de ejemplo : Perez, Juan, edad: 18, saldo: $ 15480.815 AR
